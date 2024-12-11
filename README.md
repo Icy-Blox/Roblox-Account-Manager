@@ -4,7 +4,7 @@ To install this, head over to the [Releases](https://github.com/Icy-Blox/Roblox-
 
 
 
-[Click here to view Roblox Account Manager features](https://github.com/Roblo-Dev/RobloxAccountManager/blob/master/README.md#features)
+[Click here to view Roblox Account Manager features](https://github.com/Icy-Blox/Roblox-Account-Manager/blob/master/README.md#features)
 
 # Roblox Account Manager
 Application that allows you to add multiple accounts into one application allowing you to easily play on alt accounts without having to change accounts
